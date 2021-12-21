@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Ali
-
+[![ali GitHub stats](https://github-readme-stats.vercel.app/api?username=aliatayee&count_private=true&show_icons=true&theme=radical)](https://github.com/ahzia/github-readme-stats)
 <!--
 **aliatayee/aliatayee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
