@@ -2,7 +2,7 @@
   <b>Ali Aqa Atayee</b>
 </h1>
 
-Heya! I'm Ali, 
+Hey! I'm Ali, 
 I am Entrepreneur, Full-stuck Developer, Graphic and Motion Designer plus UI/UX Designer 
 
 <br>
