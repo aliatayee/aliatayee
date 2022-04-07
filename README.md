@@ -31,7 +31,7 @@ I am Entrepreneur, Full-stuck Developer, Graphic and Motion Designer plus UI/UX 
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![AfterEffect](https://img.shields.io/badge/-AfterEffect-05122A?style=flat&logo=adobe-aftereffect)
 ```python
-class AbhigyanTrips():
+class aliatayee():
     
   def __init__(self):
     self.name = "Ali Aqa Atayee";
@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/aliatayee/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aliatayee&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliatayee&theme=gruvbox&hide_border=true" />
   </a>
