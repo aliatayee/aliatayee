@@ -72,6 +72,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Ali's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aliatayee&custom_title=Ali's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://aliatayee.com)
+[![Ali's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aliatayee&custom_title=Ali's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/aliatayee/)
 
 
