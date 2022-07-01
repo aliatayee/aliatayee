@@ -84,8 +84,8 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://github.com/aliatayee/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aliatayee&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliatayee&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliatayee&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliatayee&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
