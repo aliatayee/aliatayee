@@ -17,6 +17,8 @@ I am Entrepreneur, Full-Stuck Software Developer, Graphic and Motion Designer pl
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
+![Ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
