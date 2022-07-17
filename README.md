@@ -3,8 +3,8 @@
 </h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Hey! I'm Ali, 
-I am Entrepreneur, Full-Stuck Software Developer, Graphic and Motion Designer plus UI/UX Designer 
+Hi! I am Ali Aqa Atayee, an accomplished Full-Stack software engineer, entrepreneur, and branding specialist with hands-on experience in developing and co-founding tech startups who enjoys problem-solving, leadership, ideating, conceptualizing, and producing consumer-centric technology. I've spent the last several months working remotely and asynchronously using pair programming with people across different cultures to lead and build real-world projects and software solutions for businesses.
+My 5 years of experience made me innovative, strong communicative, and analytical with international exposure. I have a degree in Computer Science and am comfortable at all levels of the software development stack.
 
 <br>
 
