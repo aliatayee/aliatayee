@@ -13,7 +13,6 @@ My 5 years of experience made me innovative, strong communicative, and analytica
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
