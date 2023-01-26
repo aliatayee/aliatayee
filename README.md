@@ -92,7 +92,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-
 [![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatayee&theme=github-compact&area=true)](https://github.com/aliatayee)
 
 
