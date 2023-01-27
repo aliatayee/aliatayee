@@ -90,6 +90,5 @@ if __name__ == '__main__':
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliatayee&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+
 [![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatayee&theme=github-compact&area=true)](https://github.com/aliatayee)
-
-
