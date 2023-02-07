@@ -87,8 +87,9 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://github.com/aliatayee/">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliatayee&theme=dark&show_icons=true&border_color=e1e1e12e&border_radius=0&bg_color=ffffff00" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliatayee&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliatayee&theme=soft-green&border_radius=0&background=EB545400&border=E1E1E12E&stroke=2AA73B&ring=2AA73B&fire=DCD9D9&currStreakNum=2AA73B&sideNums=2AA73B&currStreakLabel=2AA73B&sideLabels=2AA73B&dates=DCD9D9)](https://git.io/streak-stats)
 
 [![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatayee&theme=github-compact&area=true)](https://github.com/aliatayee)
