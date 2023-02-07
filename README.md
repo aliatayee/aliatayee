@@ -91,6 +91,6 @@ if __name__ == '__main__':
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true&border_color=e1e1e12e&border_radius=0)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliatayee&theme=dark&show_icons=true&border_color=e1e1e12e&border_radius=0&bg_color=ffffff00)
 
 [![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatayee&theme=github-compact&area=true)](https://github.com/aliatayee)
