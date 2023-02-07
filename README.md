@@ -91,4 +91,4 @@ if __name__ == '__main__':
   </a>
 </p>
 
-[![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatayee&theme=github-compact&area=true)](https://github.com/aliatayee)
+[![Ali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aliatayee&theme=github-compact&hide_border=true&area=true)](https://github.com/aliatayee)
